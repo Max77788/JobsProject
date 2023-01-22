@@ -3,4 +3,5 @@ The purpose of the whole project is to find out is to investigate data analyst j
 in what country, state and city to move to move, considering career ambitions
 Based on the main goal, we design three essential questions to answer:
 1. What state/region does have the most offers?
-2. Regarding attributes we will find and contemplate during EDA, define the best city to consider to move in
+2. What state does provide the highest salaries?
+3. Regarding attributes we will find and contemplate during EDA, define the best city to consider to move in
