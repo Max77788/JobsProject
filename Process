@@ -2,3 +2,4 @@ It is time to clean the data and make it ready for the most interesting step, an
 At first, some pre-preparational work is done in Excel, such as setting convenient column headers and deleting unnecessary fields
 Considering the questions designed in the act step, define the columns we need each sheet to have.
 They are as follows: Job title, Company name, Location, Salary range, Rating, Joblink_URL, Employment type, Job level, Job responsibilities, Industry 
+At this point we proceed to Python, to clean up still dirty data, so you are able to follow the steps in this notebook
